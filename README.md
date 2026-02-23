@@ -1,2 +1,1 @@
-# week1
-1,2
+weekly assignment
